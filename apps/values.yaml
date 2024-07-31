@@ -1,0 +1,5 @@
+applications:
+  - name: guestbook
+    repoUrl: https://github.com/argoproj/argocd-example-apps/
+    repoPath: guestbook
+    namespace: guestbook
