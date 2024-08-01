@@ -1,4 +1,5 @@
 # Dear customers, please add your request below according to the documentation
+# Be aware that application creation can take up to 3 minutes
 
 applications: {}
 #  - name: guestbook
