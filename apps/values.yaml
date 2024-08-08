@@ -1,8 +1,8 @@
 # Dear customers, please add your request below according to the documentation
 # Be aware that application creation can take up to 3 minutes
 
-applications:
-  - name: guestbook
-    repoUrl: https://github.com/argoproj/argocd-example-apps/
-    repoPath: guestbook
-    namespace: guestbook
+applications: {}
+#  - name: guestbook
+#    repoUrl: https://github.com/argoproj/argocd-example-apps/
+#    repoPath: guestbook
+#    namespace: guestbook
